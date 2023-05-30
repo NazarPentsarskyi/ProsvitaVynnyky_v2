@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <img src={ icon } alt="Shevchenko logo" style={{ width: '200px' }} />
-      <p>Просвіта м.Винники</p>
+      <p>Просвіта мшста Винники</p>
     </>
   )
 }
